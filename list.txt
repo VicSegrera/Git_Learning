@@ -8,6 +8,8 @@ MEAT
 
 Sausages
 Picanha
+Lomo
+Lengua
 
 DAIRY
 
